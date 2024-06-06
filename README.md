@@ -25,7 +25,7 @@ This is a web application for an animation pizza website built with React and Th
 - React
 - Three.js
 - HTML5
-- CSS3
+- CSS
 
 ## Contributing
 
